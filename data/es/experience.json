@@ -1,0 +1,22 @@
+{
+  "items": [
+    {
+      "title": "[Cargo 1]",
+      "company": "[Empresa 1]",
+      "period": "[Duración 1]",
+      "details": [
+        "[Descripción de responsabilidades y logros 1.1]",
+        "[Descripción de responsabilidades y logros 1.2]"
+      ]
+    },
+    {
+      "title": "[Cargo 2]",
+      "company": "[Empresa 2]",
+      "period": "[Duración 2]",
+      "details": [
+        "[Descripción de responsabilidades y logros 2.1]",
+        "[Descripción de responsabilidades y logros 2.2]"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "name": "[Tu Nombre]",
+  "title": "Desarrollador Full Stack & Analista de Datos",
+  "description": [
+    "[Tu primera descripción sobre ti]",
+    "[Tu segunda descripción sobre ti]",
+    "[Tus intereses o hobbies]"
+  ],
+  "social": {
+    "linkedin": "https://www.linkedin.com/in/your-linkedin-profile",
+    "github": "https://github.com/your-github-profile"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "items": [
+    {
+      "title": "[Position 1]",
+      "company": "[Company 1]",
+      "period": "[Duration 1]",
+      "details": [
+        "[Description of responsibilities and achievements 1.1]",
+        "[Description of responsibilities and achievements 1.2]"
+      ]
+    },
+    {
+      "title": "[Position 2]",
+      "company": "[Company 2]",
+      "period": "[Duration 2]",
+      "details": [
+        "[Description of responsibilities and achievements 2.1]",
+        "[Description of responsibilities and achievements 2.2]"
+      ]
+    }
+  ]
+}

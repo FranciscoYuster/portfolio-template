@@ -1,0 +1,112 @@
+{
+    "es": {
+        "about": {
+            "greeting": "Hola, soy"
+        },
+        "nav": {
+            "about": "Sobre Mí",
+            "resume": "Curriculum",
+            "certifications": "Certificaciones",
+            "projects": "Proyectos",
+            "portfolio": "Portfolio"
+        },
+        "resume": {
+            "title": "Curriculum",
+            "education": "EDUCACIÓN",
+            "experience": "EXPERIENCIA LABORAL",
+            "skills": "HABILIDADES",
+            "languages": "Lenguajes",
+            "dataAnalysis": "Análisis de Datos",
+            "databases": "Bases de Datos",
+            "tools": "Herramientas"
+        },
+        "certifications": {
+            "title": "Certificaciones",
+            "subtitle": "[Texto Aquí]",
+            "issued": "Expedición",
+            "expires": "Vencimiento",
+            "credential": "Ver credencial",
+            "category": {
+                "tech": "Tecnología",
+                "professional": "Habilidades Profesionales"
+            }
+        },
+        "projects": {
+            "title": "Proyectos",
+            "filter": "Filtrar proyectos",
+            "clearFilters": "Limpiar filtros",
+            "byType": "Por tipo:",
+            "noResults": "No se encontraron proyectos con los filtros seleccionados.",
+            "demo": "Demo",
+            "code": "Código",
+            "private": "Privado"
+        },
+        "footer": {
+            "socialMedia": "Redes Sociales",
+            "quickLinks": "Enlaces Rápidos",
+            "rights": "Todos los derechos reservados."
+        },
+        "scrollToTop": {
+            "label": "Volver arriba"
+        },
+        "theme": {
+            "dark": "Activar modo oscuro",
+            "light": "Activar modo claro"
+        }
+    },
+    "en": {
+        "about": {
+            "greeting": "Hi, I'm"
+        },
+        "nav": {
+            "about": "About Me",
+            "resume": "Resume",
+            "certifications": "Certifications",
+            "projects": "Projects",
+            "portfolio": "Portfolio"
+        },
+        "resume": {
+            "title": "Resume",
+            "education": "EDUCATION",
+            "experience": "WORK EXPERIENCE",
+            "skills": "SKILLS",
+            "languages": "Languages",
+            "dataAnalysis": "Data Analysis",
+            "databases": "Databases",
+            "tools": "Tools"
+        },
+        "certifications": {
+            "title": "Certifications",
+            "subtitle": "[Text Here]",
+            "issued": "Issued",
+            "expires": "Expires",
+            "credential": "View credential",
+            "category": {
+                "tech": "Technology",
+                "professional": "Professional Skills"
+            }
+        },
+        "projects": {
+            "title": "Projects",
+            "filter": "Filter projects",
+            "clearFilters": "Clear filters",
+            "byType": "By type:",
+            "noResults": "No projects found with the selected filters.",
+            "demo": "Demo",
+            "code": "Code",
+            "private": "Private"
+        },
+        "footer": {
+            "socialMedia": "Social Media",
+            "quickLinks": "Quick Links",
+            "rights": "All rights reserved."
+        },
+        "scrollToTop": {
+            "label": "Back to top"
+        },
+        "theme": {
+            "dark": "Enable dark mode",
+            "light": "Enable light mode"
+        }
+    }
+}

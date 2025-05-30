@@ -1,0 +1,20 @@
+{
+  "items": [
+    {
+      "title": "Full Stack Web Development",
+      "platform": "Platzi",
+      "date": "2023",
+      "expiration": "2025",
+      "credentialUrl": "https://platzi.com/credential/123",
+      "category": "tech"
+    },
+    {
+      "title": "Agile Project Management",
+      "platform": "Scrum Alliance",
+      "date": "2023",
+      "expiration": null,
+      "credentialUrl": "https://scrumalliance.org/credential/123",
+      "category": "professional"
+    }
+  ]
+}

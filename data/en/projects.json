@@ -1,0 +1,31 @@
+{
+  "items": [
+    {
+      "title": "Fullstack Web Application",
+      "description": "A modern web application with user authentication, database and RESTful API.",
+      "image": "/placeholder.svg",
+      "demoUrl": "https://demo1.com",
+      "codeUrl": "https://github.com/user/project1",
+      "technologies": ["React", "TypeScript", "Tailwind"],
+      "type": "Frontend"
+    },
+    {
+      "title": "Analytics Dashboard",
+      "description": "Interactive dashboard for business data visualization and analysis.",
+      "image": "/placeholder.svg",
+      "demoUrl": "https://demo2.com",
+      "codeUrl": "https://github.com/user/project2",
+      "technologies": ["Next.js", "Python", "PostgreSQL"],
+      "type": "Fullstack"
+    },
+    {
+      "title": "Backend Web Application",
+      "description": "A modern web application with user authentication, database and RESTful API.",
+      "image": "/placeholder.svg",
+      "demoUrl": "https://demo3.com",
+      "codeUrl": "https://github.com/user/project3",
+      "technologies": ["Node.js", "Express", "MongoDB"],
+      "type": "Backend"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "items": [
+    {
+      "institution": "[Nombre de la Institución 1]",
+      "degree": "[Nombre del Título 1]",
+      "period": "[Periodo 1]",
+      "description": "[Descripción del título o logros 1]"
+    },
+    {
+      "institution": "[Nombre de la Institución 2]",
+      "degree": "[Nombre del Título 2]",
+      "period": "[Periodo 2]",
+      "description": "[Descripción del título o logros 2]"
+    }
+  ]
+}

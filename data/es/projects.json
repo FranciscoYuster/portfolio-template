@@ -1,0 +1,31 @@
+{
+  "items": [
+    {
+      "title": "Aplicación Web Fullstack",
+      "description": "Una aplicación web moderna con autenticación de usuarios, base de datos y API RESTful.",
+      "image": "/placeholder.svg",
+      "demoUrl": "https://ejemplo.com/proyecto1",
+      "codeUrl": "https://github.com/usuario/proyecto1",
+      "technologies": ["React", "TypeScript", "Tailwind"],
+      "type": "Frontend"
+    },
+    {
+      "title": "Dashboard Analítico",
+      "description": "Dashboard interactivo para visualización y análisis de datos empresariales.",
+      "image": "/placeholder.svg",
+      "demoUrl": "https://ejemplo.com/proyecto2",
+      "codeUrl": "https://github.com/usuario/proyecto2",
+      "technologies": ["Next.js", "Python", "PostgreSQL"],
+      "type": "Fullstack"
+    },
+    {
+      "title": "Aplicación Web Backend",
+      "description": "Una aplicación web moderna con autenticación de usuarios, base de datos y API RESTful.",
+      "image": "/placeholder.svg",
+      "demoUrl": "https://ejemplo.com/proyecto1",
+      "codeUrl": "https://github.com/usuario/proyecto1",
+      "technologies": ["React", "TypeScript", "Tailwind"],
+      "type": "Backend"
+    }
+  ]
+}
