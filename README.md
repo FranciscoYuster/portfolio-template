@@ -19,9 +19,8 @@
 >```
 
 >[!tip]
->💡 Puedes personalizar tu portfolio fácilmente editando los archivos dentro de la carpeta `components/` y los archivos de datos en `data/`.
+>Puedes personalizar tu portfolio fácilmente editando los archivos dentro de la carpeta `components/` y los archivos de datos en `data/`.
 
->[!example]
 >### Archivos de datos a modificar:
 >
 >- `data/en/personal.json` / `data/es/personal.json` — Información personal y contacto  
