@@ -2,7 +2,6 @@
 
 🔗 **Live demo:** [https://fy-pt.vercel.app/](https://fy-pt.vercel.app/)
 
->[!info]
 >## 🚀 Pasos para empezar
 >
 >1️⃣ Clona el repositorio:
