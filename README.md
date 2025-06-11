@@ -1,43 +1,39 @@
-# Portfolio Data Configuration / Configuración de Datos del Portfolio
+# Portfolio Template
 
-Live demo / Demostración en vivo: [https://fy-pt.vercel.app/](https://fy-pt.vercel.app/)
+Live demo: [https://fy-pt.vercel.app/](https://fy-pt.vercel.app/)
 
-## English Instructions
+[!info]
+## 🚀 Pasos para empezar
 
-To customize your portfolio, modify the JSON files in the `data/` folder:
+1️⃣ Clona el repositorio:
+```bash
+git clone https://github.com/FranciscoYuster/portfolio-template.git
+```
+2️⃣ Instala las dependencias:
+```bash
+pnpm install
+```
+3️⃣ Inicia el entorno de desarrollo:
+```bash
+pnpm run dev
+```
 
-1. Edit files in `data/en/` for English content
-2. Edit files in `data/es/` for Spanish content
+[!tip]
+Personaliza tu portfolio editando los archivos en la carpeta `components/`.
 
-Files to modify:
-- `personal.json` - Your personal information and contact details
-- `experience.json` - Work experience
-- `education.json` - Educational background
-- `skills.json` - Technical and soft skills
-- `projects.json` - Portfolio projects
-- `certifications.json` - Professional certifications
+[!example]
+### Archivos a modificar para tu información:
+- `data/en/personal.json` y `data/es/personal.json` — Información personal y contacto
+- `data/en/experience.json` y `data/es/experience.json` — Experiencia laboral
+- `data/en/education.json` y `data/es/education.json` — Formación académica
+- `data/en/skills.json` y `data/es/skills.json` — Habilidades
+- `data/en/projects.json` y `data/es/projects.json` — Proyectos
+- `data/en/certifications.json` y `data/es/certifications.json` — Certificaciones
 
-Important:
-- Keep the same structure in both language folders
-- Verify JSON syntax is valid
-- Test the website after making changes
+[!important]
+- Mantén la misma estructura en las carpetas de ambos idiomas.
+- Verifica que la sintaxis JSON sea válida.
+- Prueba el sitio web después de hacer cambios.
 
-## Instrucciones en Español
-
-Para personalizar tu portfolio, modifica los archivos JSON en la carpeta `data/`:
-
-1. Edita los archivos en `data/en/` para contenido en inglés
-2. Edita los archivos en `data/es/` para contenido en español
-
-Archivos a modificar:
-- `personal.json` - Tu información personal y datos de contacto
-- `experience.json` - Experiencia laboral
-- `education.json` - Formación académica
-- `skills.json` - Habilidades técnicas y blandas
-- `projects.json` - Proyectos del portfolio
-- `certifications.json` - Certificaciones profesionales
-
-Importante:
-- Mantén la misma estructura en las carpetas de ambos idiomas
-- Verifica que la sintaxis JSON sea válida
-- Prueba el sitio web después de hacer cambios
+[!question]
+¿Dudas o sugerencias? Abre un issue en el repositorio.
