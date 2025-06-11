@@ -36,5 +36,5 @@
 >- Validar que la sintaxis JSON sea correcta.
 >- Probar el sitio web en el navegador después de realizar cambios.
 
->[!question]
+>[!NOTE]
 >❓ ¿Dudas o sugerencias? Abre un issue en el repositorio.
